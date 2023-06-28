@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cp4p"]
 	path = cp4p
 	url = https://github.com/cran/cp4p
-	shallow = true
-	registered = true
 [submodule "imp4p"]
 	path = imp4p
 	url = https://github.com/cran/imp4p
-	shallow = true
-	registered = true
