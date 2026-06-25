@@ -5,6 +5,3 @@
 [submodule "cp4p"]
 	path = cp4p
 	url = https://github.com/cran/cp4p
-[submodule "imp4p"]
-	path = imp4p
-	url = https://github.com/cran/imp4p
